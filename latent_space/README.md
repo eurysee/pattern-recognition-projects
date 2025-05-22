@@ -27,3 +27,7 @@ This project implements convolutional autoencoders to denoise grayscale pneumoni
 - Experiment with deeper or residual architectures.
 - Try alternative loss functions (e.g., perceptual loss).
 - Integrate with downstream tasks like medical diagnosis or anomaly detection.
+
+## Notes
+- Due to size constraints, the CSV files containing encoded (latent space) images are not included in this repository.
+- You can download the files from this [Google Drive link](https://drive.google.com/drive/folders/1og0gsCifTmV0-rrQi__aZOEcbPJFwZ8a?usp=drive_link).
